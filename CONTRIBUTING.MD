@@ -17,7 +17,7 @@ If you're making a pull request, please ensure it adheres to the following guide
 	1. `[Name](link) - Description.` keep the length of the name + description under 100 characters
 	2. `[Values](link).` 
 	2. `[Culture](link). ` 
-	2. `[Glassdor (score)](link).` If applies 
+	2. `[Glassdor/Comparably (score)](link).` If applies 
 11. Any new entry should have meaningful content at the time of the addition to this list. We can't tell whether something is awesome if there is little to see. As a general rule, there should be at least about six months worth of content.
 12. Companies in this list should have "remote DNA". This means they are not only remote friendly, but dedicated to remote work as a core of their business.
 13. Link to the career/job page rather than to a single job post.

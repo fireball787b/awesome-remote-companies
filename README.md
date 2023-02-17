@@ -15,7 +15,6 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 ## Companies
 
 
-1. [Airtable](https://airtable.com/careers#open-positions) - A cloud-based platform that combines the functionality of a database, spreadsheet, and project management tool. <br> [Values and culture](https://www.airtable.com/about) - [Glassdoor (4.1)](https://www.glassdoor.es/Resumen/Trabajar-en-Airtable-EI_IE1863415.12,20.htm)<br><br>
 2. [Algolia](https://www.algolia.com/careers/) - A search and discovery API that helps companies provide fast and relevant search experiences for their users. <br> [Values](https://www.algolia.com/about/) - [Culture](https://www.algolia.com/blog/algolia/culture-growth-driver/) - [Glassdoor (3.9)](https://www.glassdoor.es/Resumen/Trabajar-en-Algolia-EI_IE998983.12,19.htm) <br><br>
 3. [Automattic](https://automattic.com/work-with-us/) - Making the web a better place. WordPress.com Your blog or website Has a (free!) home on the web. Your story, your way.<br> [Values](https://automattic.com/about/#:~:text=We're%20committed%20to%20diversity,they%20live%20in%20the%20world.) - [Culture](https://automattic.com/how-we-work/) - [Glassdoor (4.4)](https://www.glassdoor.es/Resumen/Trabajar-en-Automattic-EI_IE751107.12,22.htm)<br><br>
 4. [Basecamp](https://37signals.com/jobs/) - A project management and team communication tool that helps teams stay organized and on track. <br> [Values](https://37signals.com/00/) - [Glassdoor (5.0)](https://www.glassdoor.es/Resumen/Trabajar-en-37signals-EI_IE7262045.12,21.htm) <br><br>

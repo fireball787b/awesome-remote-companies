@@ -9,6 +9,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 - [Companies](#Companies)
 - [Compare Employee Reviews, Consumer Ratings & Salary Data](#Compare-Employee-Reviews,-Consumer-Ratings-&-Salary-Data)
 - [Remote job boards](#Remote-job-boards)
+- [Lists and articles](#Lists-and-articles)
 
 ## Companies
 

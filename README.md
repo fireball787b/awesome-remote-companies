@@ -98,5 +98,5 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 
 Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdispatch.co/careers) or from collections [Job dispatch collections](https://www.jobdispatch.co/job-collections)
 
-## Kists and articles
+## Lists and articles
 1. [Remote only](https://about.gitlab.com/company/culture/all-remote/) - Manifesto, tips, company list, and more

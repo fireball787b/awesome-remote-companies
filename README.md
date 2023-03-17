@@ -82,6 +82,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 2. [Vercel](https://vercel.com/careers) - Web developer platform based on JAMstack. <br> Values and Culture NA - [Glassdoor (3.9)](https://www.glassdoor.com.au/Overview/Working-at-Vercel-EI_IE6510369.11,17.htm)<br><br>
 2. [X team](https://x-team.com/remote-programming-jobs/) - Remote full-time projects. <br> Values and Culture NA - [Glassdoor (4.9)](https://www.glassdoor.com/Overview/Working-at-X-Team-EI_IE1274500.11,17.htm)<br><br>
 2. [Xapo](https://boards.greenhouse.io/xapo61) - Financial Technology. <br> [Values](https://www.xapobank.com/careers) - [Culture](https://www.xapobank.com/about-us) - [Glassdoor (4.2)](https://www.glassdoor.com/Overview/Working-at-Xapo-EI_IE1843514.11,15.htm)<br><br>
+2. [XWP](https://join.xwp.co/) - Remote full-time projects. <br> Values and Culture NA - [Glassdoor (4.9)](https://www.glassdoor.com/Overview/Working-at-XWP-EI_IE1582060.11,14.htm)<br><br>
 28. [Zapier](https://zapier.com/jobs) - a platform that connects web applications and automates workflows, allowing users to move data and automate tasks without writing any code. <br> [Values and culture](https://zapier.com/jobs/culture-and-values-at-zapier) - [Glassdoor (4.6)](https://www.glassdoor.com/Overview/Working-at-Zapier-EI_IE1196705.12,18.htm)
 
 

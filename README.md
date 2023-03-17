@@ -90,5 +90,13 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 
 ## Remote job boards
 1. [4 day week](https://4dayweek.io/) - Software jobs with a better work / life balance.
+1. [Manfred](https://www.getmanfred.com/en/job-offers) - Tech jobs within Spain.
 1. [Remote OK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
+1. [Rviewer](https://rviewer.io/jobs) - Certify your skills with a single challenge and apply for many tech job offer. Only for Spain.
 1. [Wellfound (formerly angel.co)](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+1. [We work remotely](https://weworkremotely.com/100-percent-remote-jobs)
+
+Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdispatch.co/careers) or from collections [Job dispatch collections](https://www.jobdispatch.co/job-collections)
+
+## Kists and articles
+1. [Remote only](https://about.gitlab.com/company/culture/all-remote/) - Manifesto, tips, company list, and more

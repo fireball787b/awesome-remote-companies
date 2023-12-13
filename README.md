@@ -104,6 +104,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 1. [Rviewer](https://rviewer.io/jobs) - Certify your skills with a single challenge and apply for many tech job offer. Only for Spain.
 1. [Wellfound (formerly angel.co)](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
 1. [Working nomads](https://www.workingnomads.com/jobs)
+1. [OkJob.io](https://www.okjob.io) - 4 day week job board
 
 ## Remote job aggregators
 1. [Remote4Me](https://remote4me.com/#jobs)

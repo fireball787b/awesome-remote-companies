@@ -11,6 +11,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 - [Remote job boards](#Remote-job-boards)
 - [Remote job aggregators](#remote-job-aggregators)
 - [Lists and articles](#Lists-and-articles)
+- [Other resources](#other-resources)
 
 ## Companies
 
@@ -95,13 +96,14 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 1. [4 day week](https://4dayweek.io/) - Software jobs with a better work / life balance.
 1. [Authentic jobs](https://authenticjobs.com/#onlyremote=1)
 1. [Flex jobs](https://www.flexjobs.com/remote-jobs/world/Anywhere)
-1. [Manfred](https://www.getmanfred.com/en/job-offers) - Tech jobs within Spain.
+1. [Levels](https://www.levels.fyi/jobs)
 1. [NoDesk](https://nodesk.co/remote-jobs/)
 1. [RemoteBase](https://remotebase.com/jobsAlt)
 1. [Remote.co](https://remote.co/remote-jobs/)
 1. [RemoteOK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
 1. [Remotive](https://remotive.com/)
 1. [Rviewer](https://rviewer.io/jobs) - Certify your skills with a single challenge and apply for many tech job offer. Only for Spain.
+1. [Talent.io](https://www.talent.io/) - For France and Germany only
 1. [Wellfound (formerly angel.co)](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
 1. [Working nomads](https://www.workingnomads.com/jobs)
 1. [OkJob.io](https://www.okjob.io) - 4 day week job board
@@ -114,3 +116,7 @@ Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdi
 
 ## Lists and articles
 1. [Remote only](https://about.gitlab.com/company/culture/all-remote/) - Manifesto, tips, company list, and more
+
+## Other resources
+1. [Ghosts](https://ghosts.fyi/) - Ghosting companies list
+2. [Layoffs](https://layoffs.fyi/)- Layoffs from companies

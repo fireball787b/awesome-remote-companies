@@ -105,12 +105,16 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 ## Remote job boards
 1. [4 day week](https://4dayweek.io/) - Software jobs with a better work / life balance.
 1. [Authentic jobs](https://authenticjobs.com/#onlyremote=1)
+1. [DailyRemote](https://dailyremote.com/)
 1. [Flex jobs](https://www.flexjobs.com/remote-jobs/world/Anywhere)
+1. [JustRemote](https://justremote.co/remote-jobs)
 1. [Levels](https://www.levels.fyi/jobs)
 1. [NoDesk](https://nodesk.co/remote-jobs/)
 1. [RemoteBase](https://remotebase.com/jobsAlt)
+1. [Remotefront.io](https://www.remotefront.io/)
 1. [Remote.co](https://remote.co/remote-jobs/)
 1. [RemoteOK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
+
 1. [Remotive](https://remotive.com/)
 1. [Rviewer](https://rviewer.io/jobs) - Certify your skills with a single challenge and apply for many tech job offer. Only for Spain.
 1. [Talent.io](https://www.talent.io/) - For France and Germany only

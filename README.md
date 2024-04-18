@@ -131,11 +131,12 @@ Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdi
 ## Lists and articles
 1. [Remote only](https://about.gitlab.com/company/culture/all-remote/) - Manifesto, tips, company list, and more
 
+## Other resources
+1. [Ghosts](https://ghosts.fyi/) - Ghosting companies list
+2. [Layoffs](https://layoffs.fyi/)- Layoffs from companies
+
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=fireball787b/awesome-remote-companies&type=Date)](https://star-history.com/#fireball787b/awesome-remote-companies&Date)
 
-## Other resources
-1. [Ghosts](https://ghosts.fyi/) - Ghosting companies list
-2. [Layoffs](https://layoffs.fyi/)- Layoffs from companies

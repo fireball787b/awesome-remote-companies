@@ -124,5 +124,5 @@ Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdi
 1. [Remote only](https://about.gitlab.com/company/culture/all-remote/) - Manifesto, tips, company list, and more
 
 ## Other resources
-1. [Ghosts](https://ghosts.fyi/) - Ghosting companies list
+1. [GotGhosted](https://www.gotghosted.fyi/) - Ghosting companies list
 2. [Layoffs](https://layoffs.fyi/)- Layoffs from companies

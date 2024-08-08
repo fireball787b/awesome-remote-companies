@@ -21,10 +21,14 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 2. [15five](https://www.15five.com/about/careers/) - Create the spaces where people become their greatest selves, by joining some of the greatest employees around. <br> [Values](https://www.15five.com/blog/organizational-values) - [Culture](https://www.15five.com/blog/grow-the-team-keep-the-culture/) - [Glassdoor (4.1)](https://www.glassdoor.com/Overview/Working-at-15Five-EI_IE1391015.11,17.htm) <br><br>
 3. [Algolia](https://www.algolia.com/careers/) - A search and discovery API that helps companies provide fast and relevant search experiences for their users. <br> [Values](https://www.algolia.com/about/) - [Culture](https://www.algolia.com/blog/algolia/culture-growth-driver/) - [Glassdoor (3.9)](https://www.glassdoor.com/Overview/Working-at-Algolia-EI_IE998983.12,19.htm) <br><br>
 26. [Asana](https://asana.com/jobs/all) -  A cloud-based project management and collaboration platform for teams. <br> [Values](https://asana.com/company) - [Culture](https://asana.com/esg/social/our-culture/) - [Glassdoor (4.1)](https://www.glassdoor.com/Overview/Working-at-Asana-EI_IE567443.11,16.htm) <br><br>
+26. [Atlassian](https://www.atlassian.com/company/careers/all-jobs) -Atlassian Corporation is an Australian-American software company that develops products for software developers, and project managers among other groups [Values](https://www.atlassian.com/company)-[Culture](https://www.atlassian.com/company/careers)-[Glassdoor (4.0)](https://www.glassdoor.co.in/Reviews/Atlassian-Reviews-E115699.htm)<br><br>
+
 4. [Automattic](https://automattic.com/work-with-us/) - Making the web a better place. WordPress.com Your blog or website Has a (free!) home on the web. Your story, your way.<br> [Values](https://automattic.com/about/#:~:text=We're%20committed%20to%20diversity,they%20live%20in%20the%20world.) - [Culture](https://automattic.com/how-we-work/) - [Glassdoor (4.4)](https://www.glassdoor.com/Overview/Working-at-Automattic-EI_IE751107.12,22.htm)<br><br>
 5. [Bandland](https://www.bandlab.com/careers) - Social music platform. <br> [Values and culture(N/A) - [Glassdoor (4.0)](https://www.glassdoor.com/Overview/Working-at-BandLab-Technologies-EI_IE2955774.11,31.htm)<br><br>
 5. [Basecamp](https://37signals.com/jobs/) - A project management and team communication tool that helps teams stay organized and on track. <br> [Values](https://37signals.com/00/) - [Glassdoor (5.0)](https://www.glassdoor.com/Overview/Working-at-37signals-EI_IE7262045.12,21.htm) <br><br>
 6. [Buffer](https://buffer.com/journey#open-roles) - a social media management platform that helps individuals and businesses manage their presence on multiple platforms.<br>[Values and culture](https://buffer.com/resources/buffer-values/) - [Glassdoor (4.4)](https://www.glassdoor.com/Overview/Working-at-Buffer-EI_IE941992.12,18.htm)<br><br>
+6. [Bunny.net](https://bunny.net/careers/#positions)- A company that helps businesses deliver content, store files, and automatically optimize images on a unified interface.<br>[values and culture](https://bunny.net/careers/)-[Glassdoor (5.0)](https://www.glassdoor.co.in/Overview/Working-at-bunny-net-EI_IE5045467.11,20.htm)
+<br><br>
 2. [Canonical](https://canonical.com/careers/all) - Ubuntu dev & support. <br> [Values](https://canonical.com/careers/lifestyle) - [Culture](https://ubuntu.com/blog/canonical-a-world-leader-in-remote-first-working) - [Glassdoor (3.2)](https://www.glassdoor.com.au/Overview/Working-at-Canonical-EI_IE230560.11,20.htm)<br><br>
 2. [Chef](https://www.progress.com/company/careers?category=Chef%20Business%20Unit) - IT automation. <br> [Values and culture](https://www.chef.io/blog/the-roi-of-culture)  - [Glassdoor (3.8)](https://www.glassdoor.com.au/Overview/Working-at-Chef-Software-EI_IE444809.11,24.htm)<br><br>
 2. [Cloudbeds](https://www.cloudbeds.com/careers/) - Hospitality Software. <br> [Values](https://www.cloudbeds.com/our-story/) - [Culture](https://www.cloudbeds.com/articles/created-strong-company-culture-140-people-23-countries/) - [Glassdoor (3.9)](https://www.glassdoor.com/Overview/Working-at-Cloudbeds-EI_IE1399374.11,20.htm)<br><br>
@@ -101,12 +105,16 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 ## Remote job boards
 1. [4 day week](https://4dayweek.io/) - Software jobs with a better work / life balance.
 1. [Authentic jobs](https://authenticjobs.com/#onlyremote=1)
+1. [DailyRemote](https://dailyremote.com/)
 1. [Flex jobs](https://www.flexjobs.com/remote-jobs/world/Anywhere)
+1. [JustRemote](https://justremote.co/remote-jobs)
 1. [Levels](https://www.levels.fyi/jobs)
 1. [NoDesk](https://nodesk.co/remote-jobs/)
 1. [RemoteBase](https://remotebase.com/jobsAlt)
+1. [Remotefront.io](https://www.remotefront.io/)
 1. [Remote.co](https://remote.co/remote-jobs/)
 1. [RemoteOK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
+
 1. [Remotive](https://remotive.com/)
 1. [Rviewer](https://rviewer.io/jobs) - Certify your skills with a single challenge and apply for many tech job offer. Only for Spain.
 1. [Talent.io](https://www.talent.io/) - For France and Germany only
@@ -126,3 +134,9 @@ Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdi
 ## Other resources
 1. [GotGhosted](https://www.gotghosted.fyi/) - Ghosting companies list
 2. [Layoffs](https://layoffs.fyi/)- Layoffs from companies
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fireball787b/awesome-remote-companies&type=Date)](https://star-history.com/#fireball787b/awesome-remote-companies&Date)
+

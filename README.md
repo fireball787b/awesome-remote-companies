@@ -6,12 +6,15 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 
 ## Table of Contents
 
-- [Companies](#Companies)
-- [Compare Employee Reviews, Consumer Ratings & Salary Data](#Compare-Employee-Reviews,-Consumer-Ratings-&-Salary-Data)
-- [Remote job boards](#Remote-job-boards)
-- [Remote job aggregators](#remote-job-aggregators)
-- [Lists and articles](#Lists-and-articles)
-- [Other resources](#other-resources)
+- [Awesome Remote Companies ](#awesome-remote-companies-)
+  - [Table of Contents](#table-of-contents)
+  - [Companies](#companies)
+  - [Compare Employee Reviews, Consumer Ratings \& Salary Data](#compare-employee-reviews-consumer-ratings--salary-data)
+  - [Remote job boards](#remote-job-boards)
+  - [Remote job aggregators](#remote-job-aggregators)
+  - [Lists and articles](#lists-and-articles)
+  - [Other resources](#other-resources)
+  - [Star History](#star-history)
 
 ## Companies
 
@@ -127,13 +130,14 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 1. [Remotefront.io](https://www.remotefront.io/)
 1. [Remote.co](https://remote.co/remote-jobs/)
 1. [RemoteOK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
+2. [RemoteYeah](https://remoteyeah.com/) - software developer jobs only (fe, be, fs, devops, devops, ml/ai, web3, ...)
 
-1. [Remotive](https://remotive.com/)
-1. [Rviewer](https://rviewer.io/jobs) - Certify your skills with a single challenge and apply for many tech job offer. Only for Spain.
-1. [Talent.io](https://www.talent.io/) - For France and Germany only
-1. [Wellfound (formerly angel.co)](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
-1. [Working nomads](https://www.workingnomads.com/jobs)
-1. [OkJob.io](https://www.okjob.io) - 4 day week job board
+3. [Remotive](https://remotive.com/)
+4. [Rviewer](https://rviewer.io/jobs) - Certify your skills with a single challenge and apply for many tech job offer. Only for Spain.
+5. [Talent.io](https://www.talent.io/) - For France and Germany only
+6. [Wellfound (formerly angel.co)](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+7. [Working nomads](https://www.workingnomads.com/jobs)
+8. [OkJob.io](https://www.okjob.io) - 4 day week job board
 
 ## Remote job aggregators
 1. [Remote4Me](https://remote4me.com/#jobs)

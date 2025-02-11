@@ -126,9 +126,11 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 1. [DailyRemote](https://dailyremote.com/)
 1. [Findjobit](https://www.findjobit.com/jobs) - Remote jobs for IT professionals in Latin America.
 1. [Flex jobs](https://www.flexjobs.com/remote-jobs/world/Anywhere)
+2. [Hiring cafe](https://hiring.cafe/) - Scrapping jobs from the company's official website 
 1. [JustRemote](https://justremote.co/remote-jobs)
 1. [Levels](https://www.levels.fyi/jobs)
 1. [NoDesk](https://nodesk.co/remote-jobs/)
+2. [OkJob.io](https://www.okjob.io) - 4 day week job board
 1. [RemoteBase](https://remotebase.com/jobsAlt)
 1. [Remotefront.io](https://www.remotefront.io/)
 1. [Remote.co](https://remote.co/remote-jobs/)
@@ -140,7 +142,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 5. [Talent.io](https://www.talent.io/) - For France and Germany only
 6. [Wellfound (formerly angel.co)](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
 7. [Working nomads](https://www.workingnomads.com/jobs)
-8. [OkJob.io](https://www.okjob.io) - 4 day week job board
+
 
 ## Remote job aggregators
 1. [Remote4Me](https://remote4me.com/#jobs)
@@ -153,7 +155,9 @@ Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdi
 
 ## Other resources
 1. [Ghosted at interview](https://ghosted-at-interview.fyi/) - Ghosting companies list
-2. [Layoffs](https://layoffs.fyi/)- Layoffs from companies
+2. [Interviewing.io](https://interviewing.io) - Get better at coding interviews and system design problems
+3. [Layoffs](https://layoffs.fyi/) - Layoffs from companies
+4. [TrueUp](https://trueup.io/) - Jobs and trends (layoffs, tech industry stats, etc..)
 
 
 ## Star History

@@ -136,6 +136,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 2. [OkJob.io](https://www.okjob.io) - 4 day week job board
 1. [RemoteBase](https://remotebase.com/jobsAlt)
 1. [Remotefront.io](https://www.remotefront.io/)
+1. [AI Dev Jobs](https://aidevboard.com) - AI/ML-focused job board with 7,700+ positions from 440+ AI companies. Free API and MCP server.
 1. [Remote.co](https://remote.co/remote-jobs/)
 1. [RemoteOK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
 2. [RemoteYeah](https://remoteyeah.com/) - software developer jobs only (fe, be, fs, devops, devops, ml/ai, web3, ...)

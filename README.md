@@ -150,6 +150,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 
 
 ## Remote job aggregators
+1. [Aworkado](https://aworkado.co/) - Remote-only jobs from company ATS boards, checked daily. Free, no sign-up.
 1. [Remote4Me](https://remote4me.com/#jobs)
 1. [We work remotely](https://weworkremotely.com/100-percent-remote-jobs)
 

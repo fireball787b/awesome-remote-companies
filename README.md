@@ -130,6 +130,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 1. [Flex jobs](https://www.flexjobs.com/remote-jobs/world/Anywhere)
 2. [Hiring cafe](https://hiring.cafe/) - Scrapping jobs from the company's official website
 1. [hiring.lat](https://hiring.lat/) - Remote and relocation job listing platform for LATAM talent. 
+1. [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 1. [JustRemote](https://justremote.co/remote-jobs)
 1. [Levels](https://www.levels.fyi/jobs)
 1. [NoDesk](https://nodesk.co/remote-jobs/)

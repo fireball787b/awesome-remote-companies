@@ -125,6 +125,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 1. [Remote Jobs With Salary](https://remotejobswithsalary.com) - Only remote jobs that include salary.
 1. [4 day week](https://4dayweek.io/) - Software jobs with a better work / life balance.
 1. [Authentic jobs](https://authenticjobs.com/#onlyremote=1)
+1. [chainjobs.app](https://chainjobs.app/) - Free Web3 freelance job board with 0% commission.
 1. [DailyRemote](https://dailyremote.com/)
 1. [Findjobit](https://www.findjobit.com/jobs) - Remote jobs for IT professionals in Latin America.
 1. [Flex jobs](https://www.flexjobs.com/remote-jobs/world/Anywhere)

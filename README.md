@@ -162,10 +162,11 @@ Subscribe to jobs alerts by companies [Job dispatch companies](https://www.jobdi
 1. [Remote only](https://about.gitlab.com/company/culture/all-remote/) - Manifesto, tips, company list, and more
 
 ## Other resources
-1. [Ghosted at interview](https://ghosted-at-interview.fyi/) - Ghosting companies list
-2. [Interviewing.io](https://interviewing.io) - Get better at coding interviews and system design problems
-3. [Layoffs](https://layoffs.fyi/) - Layoffs from companies
-4. [TrueUp](https://trueup.io/) - Jobs and trends (layoffs, tech industry stats, etc..)
+1. [Culture Fit Check](https://mintraq.com/en/tools/culture-fit) - Compare your work style with a company's culture, including office time
+2. [Ghosted at interview](https://ghosted-at-interview.fyi/) - Ghosting companies list
+3. [Interviewing.io](https://interviewing.io) - Get better at coding interviews and system design problems
+4. [Layoffs](https://layoffs.fyi/) - Layoffs from companies
+5. [TrueUp](https://trueup.io/) - Jobs and trends (layoffs, tech industry stats, etc..)
 
 
 ## Star History

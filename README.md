@@ -153,6 +153,7 @@ A curated list of awesome [100% remote working companies](https://en.wikipedia.o
 ## Remote job aggregators
 1. [Aworkado](https://aworkado.co/) - Remote-only jobs from company ATS boards, checked daily. Free, no sign-up.
 1. [CookLLM](https://cookllm.com/en/jobs/board) - AI jobs from 1,300+ AI companies' career pages, with a remote filter. Free, no sign-up.
+1. [FreshRemoteRoles](https://freshremoteroles.com/) - Fully remote jobs from company career pages. No hybrid or onsite. Free, no account.
 1. [Remote4Me](https://remote4me.com/#jobs)
 1. [We work remotely](https://weworkremotely.com/100-percent-remote-jobs)
 
